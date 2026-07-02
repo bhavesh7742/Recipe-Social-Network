@@ -1,10 +1,10 @@
 # Recipe Social Network
 
 ### **Intern Details**
-* **Intern ID**: `COD93721` (Placeholder - Please replace with your actual ID)
-* **Full Name**: `John Doe` (Placeholder - Please replace with your actual Name)
+* **Intern ID**: `CITS5188` 
+* **Full Name**: `Bhavesh Kumar` 
 * **Project Name**: `Recipe Social Network`
-* **Domain**: `MERN Stack Web Development`
+* **Domain**: `Full Stack Web Development (MERN)`
 
 ---
 
@@ -225,34 +225,7 @@ All API requests should be sent to the base URL: `http://localhost:5000/api`
 
 5. Open your browser and navigate to `http://localhost:5173` to browse the social network.
 
----
 
-## 📸 Screenshots & Output Images
-*(Insert screenshots of the working MERN app inside these placeholder slots)*
 
-### 1. Welcome Feed & Toggles (Light Theme)
-![Home Screen Feed Placeholder](https://images.unsplash.com/photo-1556910103-1c02745aae4d?w=800)
 
-### 2. Welcome Feed & Toggles (Dark Theme)
-*(Image demonstrating the glassmorphic dark mode cards)*
 
-### 3. Detailed Recipes View & Interactive Checklist
-*(Image demonstrating the checking off ingredients and comments)*
-
-### 4. Create & Edit Recipe Form
-*(Image demonstrating dynamic list inputs)*
-
-### 5. Administrative Dashboard (Analytics and Management Charts)
-*(Image demonstrating bar distribution progress grids)*
-
----
-
-## 📑 Documentation Section
-* Detailed developer configurations are available inside the codebase code blocks.
-* Authentication endpoints require passing the Bearer authorization header `Authorization: Bearer <token>`.
-* All responsive classes are coded using native Tailwind CSS configurations (`sm:`, `md:`, `lg:` prefix utilities).
-
----
-
-## 🔗 GitHub Repository
-* **GitHub Link Placeholder**: `https://github.com/your-github-username/recipe-social-network`
